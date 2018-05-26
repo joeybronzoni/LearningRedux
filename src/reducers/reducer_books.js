@@ -1,9 +1,9 @@
 export default function() {
   return [
-    { title: 'Javascript: the Good parts' },
-	{ title: 'Ajax in Action' },
-	{ title: 'Javascript Ninja' },
-	{ title: 'True at First Light' }
+    { title: 'Javascript: the Good parts', pages: 101 },
+	{ title: 'Ajax in Action', pages:39 },
+	{ title: 'Javascript Ninja', pages: 85 },
+	{ title: 'True at First Light', pages: 1 }
   ];
 };
 
